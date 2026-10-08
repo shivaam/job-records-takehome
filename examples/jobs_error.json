@@ -1,0 +1,12 @@
+[
+  {"job_id": "A", "status": "failed",  "started_at": "2026-10-06T12:00:00Z", "finished_at": "2026-10-06T12:00:05Z", "attempt": 1},
+  {"job_id": "A", "status": "success", "started_at": "2026-10-06T12:01:00Z", "finished_at": "2026-10-06T12:01:10Z", "attempt": 2},
+  {"job_id": "B", "status": "failed",  "started_at": "2026-10-06T12:00:00Z", "finished_at": "2026-10-06T12:00:20Z", "attempt": 1},
+  {"job_id": "C", "status": "running", "started_at": "2026-10-06T12:00:00Z", "finished_at": null, "attempt": 1},
+  {"job_id": "D", "status": "success", "started_at": "2026-10-06T12:00:00Z", "finished_at": "2026-10-06T12:00:30Z", "attempt": 1},
+  {"job_id": "E", "status": "success", "started_at": "2026-10-06T12:00:00Z", "finished_at": "2026-10-06T12:00:20Z", "attempt": 1},
+  {"job_id": "E", "status": "success", "started_at": "2026-10-06T12:05:00Z", "finished_at": "2026-10-06T12:05:40Z", "attempt": 2},
+  {"job_id": "E", "status": "failed",  "started_at": "2026-10-06T12:05:00Z", "finished_at": "2026-10-06T12:05:15Z", "attempt": 2},
+  {"job_id": "F", "status": "success", "started_at": "yesterday at noon", "finished_at": "2026-10-06T12:00:10Z", "attempt": 1},
+  "not a record"
+]
